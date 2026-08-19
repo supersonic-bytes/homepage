@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://supersonic-bytes.github.io/homepage/sitemap.xml
